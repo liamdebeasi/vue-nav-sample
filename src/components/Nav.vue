@@ -1,5 +1,5 @@
 <template>
-  <ion-nav :swipe-gesture="true" :root="Account"></ion-nav>
+  <ion-nav :root="Account"></ion-nav>
 </template>
 
 <script lang="ts">
