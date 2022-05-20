@@ -1,0 +1,7 @@
+{
+  "name": "vue-nav-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
